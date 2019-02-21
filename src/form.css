@@ -1,0 +1,52 @@
+.card{
+
+    border-radius: 30px;
+    background-image: url('img.jpg');
+    background-repeat: no-repeat;
+    width: 500px;
+    height:350px ;
+  }
+  .titre{
+    color: white;
+    font-size: 50px;
+    text-align: right;
+    padding-right:30px;
+  }
+  .code h1{
+    
+    font-size: 30px;
+    margin: 20px;
+    color: aliceblue;
+  }
+  .name{
+    font-size: 10px;
+    margin-left: 20px;
+    color: aliceblue;
+
+  }
+  .footer{
+      display: flex;
+
+  }
+  .date{
+    font-size: 10px;
+    margin-left: 330px;
+    color: aliceblue;
+  }
+  .container{
+      display: flex;
+      margin-top: 100px;
+      margin-left: 300px;
+  }
+  input{
+      margin:20px;
+      width: 300px;
+      height: 30px;
+  }
+  label{
+      margin:20px;
+
+  }
+  .input{
+      margin-top: 40px;
+  }
